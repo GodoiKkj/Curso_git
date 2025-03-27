@@ -5,3 +5,4 @@ a
 funcionalidade x
 enviando
 a funcionalidade y
+e funcionalidade z
