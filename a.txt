@@ -6,3 +6,4 @@ funcionalidade x
 enviando
 a funcionalidade y
 e funcionalidade z
+enviando funcionalidade b
